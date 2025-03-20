@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMateiMartin&psig=AOvVaw3lq6-YzLeQj5DYar102bya&ust=1742484888562000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCq5pm8lowDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanyepeter%2Fanyepeter&psig=AOvVaw27yzY2DXnBlQ3BiTMGngMe&ust=1742485165415000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPid_qy9lowDFQAAAAAdAAAAABAK))
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 
 <h1 align="center">Hi 👋, I'm Tarık Yalçın</h1>
 <h3 align="center">Computer Science Student from Turkey</h3>
